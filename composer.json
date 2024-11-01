@@ -1,0 +1,19 @@
+{
+  "name": "derikon/shutterpress",
+  "description": "ShutterPress plugin",
+  "version": "0.1",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Ionut Calara",
+      "email": "ionut.calara@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/"]
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "tareq1988/wordpress-settings-api-class": "dev-master"
+  }
+}

@@ -1,0 +1,184 @@
+.shutterpress-browser {
+  &.attachments-browser {
+    .media-toolbar {
+      overflow: visible;
+    }
+  }
+}
+
+.shutterpress-close-filter {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  height: 20px;
+  width: 20px;
+  overflow: hidden;
+  &:after {
+    font-family: "dashicons";
+    content: "\f158";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font-size: 20px;
+    vertical-align: middle;
+  }
+  &:hover {
+    cursor: pointer;
+    &:after {
+      color: #0073aa;
+    }
+  }
+}
+
+#shutterpress-advanced-area {
+  display: inline-block;
+  position: relative;
+  @include rmm(640, 690) {
+    display: block;
+  }
+  @include rmm(200, 360) {
+    display: block;
+  }
+  #shutterpress-advanced-filters {
+    position: absolute;
+    width: 400px;
+    padding: 20px;
+    top: 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    background: #fcfcfc;
+    display: none;
+    overflow-y: scroll;
+    max-height: calc(100vh - 300px);
+    @include r(900) {
+      top: 50px;
+    }
+    @include rmm(640, 690) {
+      top: 50px;
+    }
+    @include r(640) {
+      left: -142px;
+    }
+    @include r(480) {
+      width: 300px;
+      left: -35%;
+    }
+    @include r(370) {
+      width: 250px;
+      left: -18%;
+    }
+    @include rmm(200, 360) {
+      top: 50px;
+    }
+    &.visible {
+      display: block;
+    }
+  }
+}
+
+.shutterpress-filters-trigger {
+  padding-right: 10px;
+  cursor: pointer;
+
+  @include r(900) {
+    text-align: right;
+    padding-top: 16px;
+    font-size: 14px;
+  }
+  @include rmm(640, 690) {
+    margin-top: 30px;
+    text-align: right;
+  }
+  @include rmm(200, 360) {
+    margin-top: 30px;
+    text-align: right;
+  }
+}
+
+// todo implement popup for filters
+// remove toolbar overflow hidden
+// adjust mobile
+
+.shutterpress-filters-sub-container {
+  .advanced-filters {
+    width: 40%;
+    float: left;
+    padding-bottom: 15px;
+    margin-right: 10%;
+    min-width: 150px;
+    span.group-label {
+      display: block;
+      font-weight: bold;
+      padding-bottom: 10px;
+    }
+    span.checkbox-component {
+      display: inline-block;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      label {
+        top: -3px;
+        position: relative;
+      }
+    }
+    span.radio-component {
+      display: block;
+      padding-bottom: 10px;
+      label {
+        top: -3px;
+        position: relative;
+      }
+    }
+  }
+}
+
+.shutterpress-filters-actions {
+  clear: both;
+  text-align: right;
+}
+
+#shutterpress-category-filter {
+  margin-bottom: 26px;
+}
+
+#shutterpress-color-filter {
+  width: 100%;
+}
+
+.shutterpress-browser {
+  .media-toolbar-primary {
+    max-width: 100%;
+    width: 360px;
+    @include rmm(900, 1000) {
+      width: 285px;
+    }
+    @include r(750) {
+      width: 300px;
+    }
+    @include rmm(640, 690) {
+      width: 250px;
+    }
+    @include rmm(200, 360) {
+      width: 250px;
+    }
+    .search {
+      width: 50%;
+      @include r(900) {
+        width: 235px;
+      }
+      @include r(750) {
+        width: 175px;
+      }
+      @include rmm(640, 690) {
+        margin-top: -50px;
+      }
+      @include rmm(200, 360) {
+        margin-top: -50px;
+      }
+
+    }
+  }
+}
+
+.media-router > a {
+  @include r(325) {
+    font-size: 13px;
+  }
+}

@@ -1,0 +1,296 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shutterpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-21 09:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/shutterpress.php:105
+msgid "Settings"
+msgstr ""
+
+#. Name of the plugin
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressadmin.php:73
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressadmin.php:105
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:98
+msgid "Shutterpress"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressadmin.php:118
+msgid "License key"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressadmin.php:119
+msgid "This is the license key that is used for authentication"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:99
+msgid "Insert into post"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:100
+msgid "Retry"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:101
+msgid "No images have been found"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:102
+msgid "There has been an issue with the your license key"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:103
+msgid "Set license key"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:104
+msgid "Search shutterstock images"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:105
+msgid "Close"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:106
+msgid "Download"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:107
+msgid "Your license key is not valid"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:108
+msgid "Advanced search"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:111
+msgid "Gender"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:112
+msgid "Female"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:113
+msgid "Male"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:116
+msgid "Orientation"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:117
+msgid "Horizontal"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:118
+msgid "Vertical"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:121
+msgid "Image type"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:122
+msgid "Photos"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:123
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:157
+msgid "Vectors"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:124
+msgid "Illustrations"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:127
+msgid "Category"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:128
+msgid "Any Category"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:130
+msgid "Abstract"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:131
+msgid "Animals/Wildlife"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:132
+msgid "The Arts"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:133
+msgid "Backgrounds/Textures"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:134
+msgid "Beauty/Fashion"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:135
+msgid "Buildings/Landmarks"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:136
+msgid "Business/Finance"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:137
+msgid "Celebrities"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:138
+msgid "Editorial"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:139
+msgid "Education"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:140
+msgid "Food and Drink"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:141
+msgid "Healthcare/Medical"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:142
+msgid "Holidays"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:143
+msgid "Illustrations/Clip-Art"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:144
+msgid "Industrial"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:145
+msgid "Interiors"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:146
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:147
+msgid "Nature"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:148
+msgid "Objects"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:149
+msgid "Parks/Outdoor"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:150
+msgid "People"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:151
+msgid "Religion"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:152
+msgid "Science"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:153
+msgid "Signs/Symbols"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:154
+msgid "Sports/Recreation"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:155
+msgid "Technology"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:156
+msgid "Transportation"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:158
+msgid "Vintage"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:163
+msgid "Safe"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:164
+msgid "Yes"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:165
+msgid "No"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressmedia.php:168
+msgid "Color"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressquery.php:120
+msgid "Image not found in cache"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressquery.php:132
+msgid "You are not allowed to upload files"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressquery.php:200
+msgid "There has been a problem with the upload. Please try again"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressquery.php:226
+msgid "You need to a valid license key to use the plugin."
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressquery.php:254
+msgid "Can't connect to Shutterpress server."
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressquery.php:287
+msgid "Image download failed, please try again. Errors:"
+msgstr ""
+
+#: ../../../../Repo's/shutterpress/shutterpress-wordpress-plugin-bit/shutterpress/src/class-shutterpressquery.php:291
+msgid "Image type couldn't be determined"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easily insert images from 3rd party providers into your posts"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/shutterpress/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Derikon Development"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://derikon.com/"
+msgstr ""

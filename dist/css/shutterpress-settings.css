@@ -1,0 +1,38 @@
+span.shutterpress-verification:after {
+    font-family: "dashicons";
+    content: "\f460";
+    color: #FFB900;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font-size: 28px;
+    vertical-align: middle;
+}
+
+.valid span.shutterpress-verification:after {
+    color: #46B450;
+    content: "\f147";
+}
+
+.invalid span.shutterpress-verification:after {
+    color: #DC3232;
+    content: "\f335";
+}
+
+#shutterpress_basics tr.auth_token td {
+    position: relative;
+}
+
+span.shutterpress-message {
+    position: absolute;
+    top: -3px;
+    color: #DC3232;
+    opacity: 0;
+}
+
+td.invalid span.shutterpress-message {
+    opacity: 1;
+}
+
+.license-key-link{
+    margin-left: 10px;
+}
